@@ -16,12 +16,12 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://user-images.githubusercontent.com/32272045/68067282-80950800-fd12-11e9-927a-b33047731ef1.gif" />
+<img src="https://user-images.githubusercontent.com/32272045/68462227-b8e48c80-01d1-11ea-9fdb-aa91ca694e78.gif" />
 
